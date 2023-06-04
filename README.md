@@ -1,4 +1,4 @@
-#Project Details
+# Project Details
 
 **Title**: Effectiveness of Fastlink (An Emergency Device) in Connecting Cardiac Patients of Iligan City to EMS (Emergency Medical Services)
 **Role**: Project Consultant
@@ -6,17 +6,17 @@
 **Undergraduate Thesis Proponents**: Sheena Cuaton, Aren Dale Jataas, and  Tessa Sinday
 
 
-##Prototype
+## Prototype
 <p align="center">
 <img src="https://github.com/aeraterta/FastLink/blob/master/documentation/received-440803983345098.JPG" height="400">
 </p>
 
-##Sample Message
+## Sample Message
 <p align="center">
 <img src="https://github.com/aeraterta/FastLink/blob/master/documentation/received-335749623965923.JPG" height="400">
 </p>
 
-##GPS Location Counterchecking
+## GPS Location Counterchecking
 <p align="center">
 <img src="https://github.com/aeraterta/FastLink/blob/master/documentation/received-2133308610117268.JPG" height="400">
 </p>
