@@ -1,9 +1,9 @@
 # Project Details
 
-**Title**: Effectiveness of Fastlink (An Emergency Device) in Connecting Cardiac Patients of Iligan City to EMS (Emergency Medical Services)
-**Role**: Project Consultant
-**Description**: A mobile datalogger for elderly individual which monitors pulse rate and SPO2 levels at a fixed interval. Such readings are monitored in such a way that the device automatically transmits its location via GSM into the Emergency Monitoring System (EMS) when readings are beyond normal range.
-**Undergraduate Thesis Proponents**: Sheena Cuaton, Aren Dale Jataas, and  Tessa Sinday
+**Title**: Effectiveness of Fastlink (An Emergency Device) in Connecting Cardiac Patients of Iligan City to EMS (Emergency Medical Services)<br />
+**Role**: Project Consultant<br />
+**Description**: A mobile datalogger for elderly individual which monitors pulse rate and SPO2 levels at a fixed interval. Such readings are monitored in such a way that the device automatically transmits its location via GSM into the Emergency Monitoring System (EMS) when readings are beyond normal range.<br />
+**Undergraduate Thesis Proponents**: Sheena Cuaton, Aren Dale Jataas, and  Tessa Sinday<br />
 
 
 ## Prototype
